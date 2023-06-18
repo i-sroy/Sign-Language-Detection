@@ -111,9 +111,7 @@ Conclusively, even though complete accuracy was not achieved, the main feat was 
 3. LeCun Y.A., Bottou L., Orr G.B., Müller KR. (2012) Efficient BackProp. In: Montavon G., Orr G.B., Müller KR. (eds) Neural Networks: Tricks of the Trade. Lecture Notes in Computer Science, vol 7700. Springer, Berlin, Heidelberg.
 
 
-
-    
-  
+#####  Project by -  Ishita Sinha Roy, Pratyusha Ghosh, Megha Sharma
   
 
 
